@@ -8,7 +8,7 @@ A lightweight Python tool for analyzing word frequencies in text strings or file
 - **Text Cleaning**: Automatically removes punctuation and normalizes casing for accurate counts.
 
 ## How it Works (Methodology)
-The tool follows a simple but effective pipeline
+The tool follows a simple but effective pipeline:
 1. **Normalization**: Converts all text to lowercase to ensure "Word" and "word" are counted together.
 2. **Sanitization**: Uses Python's `string.punctuation` map to replace all punctuation marks with spaces, preventing attached punctuation (like `hello!`) from being treated as unique words.
 3. **Tokenization**: Splits the sanitized string by whitespace into individual tokens (words).
