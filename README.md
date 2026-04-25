@@ -1,4 +1,4 @@
-# LexiCount-Python 📊
+# LexiCount-Python 
 
 A lightweight Python tool for analyzing word frequencies in text strings or files. 
 
