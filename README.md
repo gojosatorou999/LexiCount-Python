@@ -14,7 +14,7 @@ The tool follows a simple but effective pipeline:
 3. **Tokenization**: Splits the sanitized string by whitespace into individual tokens (words).
 4. **Frequency Mapping**: Utilizes `collections.Counter` to efficiently tally occurrences.
 5. **Sorting**: Returns the most common words using the `most_common()` method.
-
+ 
 ## Usage 
 ### Analyze a string
 ```bash
