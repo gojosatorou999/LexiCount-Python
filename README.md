@@ -2,6 +2,7 @@
 
 A lightweight Python tool for analyzing word frequencies in text strings or files. 
 
+
 ## Features
 - **File & String Support**: Analyze direct text input or read from `.txt` files.
 - **Top-N Results**: Filter to see only the most frequent words.
