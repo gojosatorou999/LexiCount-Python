@@ -1,7 +1,7 @@
 # LexiCount
 
 A lightweight Python tool for analyzing word frequencies in text strings or files. 
-
+  
 
 ## Features  
 - **File & String Support**: Analyze direct text input or read from `.txt` files.
