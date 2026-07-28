@@ -20,7 +20,7 @@ The tool follows a simple but effective pipeline:
 ### Analyze a string
 ```bash
 python analyzer.py "The quick brown fox jumps over the lazy dog. The fox was fast."
-```
+```  
 
 ### Analyze a file
 ```bash
