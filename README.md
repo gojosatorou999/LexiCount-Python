@@ -26,14 +26,14 @@ python analyzer.py "The quick brown fox jumps over the lazy dog. The fox was fas
 ```bash
 python analyzer.py -f sample.txt --top 20
 ```
-<div align ="center">
+
 ### Arguments
 | Argument | Short | Description |
 |----------|-------|-------------|
 | `input`  | N/A   | The text or file path to analyze. |
 | `--file` | `-f`  | Flag to indicate the input is a file path. |
 | `--top`  | `-n`  | Number of top words to display (default: 10). |
-</div>
+
 ## Requirements
 - Python 3.6+
 - No external dependencies (uses standard library).
